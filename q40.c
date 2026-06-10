@@ -12,5 +12,5 @@ int main()
     printf("%c", ch);
     printf("\n");
     }
-return 0;
+    return 0;
 }
